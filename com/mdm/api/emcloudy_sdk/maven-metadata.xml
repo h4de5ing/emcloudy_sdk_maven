@@ -3,11 +3,12 @@
   <groupId>com.mdm.api</groupId>
   <artifactId>emcloudy_sdk</artifactId>
   <versioning>
-    <latest>1.0-20250721115001</latest>
-    <release>1.0-20250721115001</release>
+    <latest>1.0-20250724093609</latest>
+    <release>1.0-20250724093609</release>
     <versions>
       <version>1.0-20250721115001</version>
+      <version>1.0-20250724093609</version>
     </versions>
-    <lastUpdated>20250721035002</lastUpdated>
+    <lastUpdated>20250724013609</lastUpdated>
   </versioning>
 </metadata>

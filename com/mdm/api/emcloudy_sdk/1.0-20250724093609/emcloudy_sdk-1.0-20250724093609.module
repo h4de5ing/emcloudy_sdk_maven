@@ -1,0 +1,82 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.mdm.api",
+    "module": "emcloudy_sdk",
+    "version": "1.0-20250724093609",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.14.3"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.jvm.version": 22,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "2.1.21"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "emcloudy_sdk-1.0-20250724093609.jar",
+          "url": "emcloudy_sdk-1.0-20250724093609.jar",
+          "size": 13157,
+          "sha512": "fad64932fb2a3ac7b1bb7c77a41e3e3e0464f4d41dde54757cfff91c4e99aa08e63f94f69e8b8f8d667b57c53280a8d0e7c075014fe70db6ca882ebc883a14c4",
+          "sha256": "ed70b855ccebfe10e8338447716f40958426897ae2bdf847ddcee7c1eacc18fb",
+          "sha1": "9c0ed38b4462dc4f63b7d0d971b90df5e8b86653",
+          "md5": "d164811f85ad245950cb89d89c6c7425"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.jvm.version": 22,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "2.1.21"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "emcloudy_sdk-1.0-20250724093609.jar",
+          "url": "emcloudy_sdk-1.0-20250724093609.jar",
+          "size": 13157,
+          "sha512": "fad64932fb2a3ac7b1bb7c77a41e3e3e0464f4d41dde54757cfff91c4e99aa08e63f94f69e8b8f8d667b57c53280a8d0e7c075014fe70db6ca882ebc883a14c4",
+          "sha256": "ed70b855ccebfe10e8338447716f40958426897ae2bdf847ddcee7c1eacc18fb",
+          "sha1": "9c0ed38b4462dc4f63b7d0d971b90df5e8b86653",
+          "md5": "d164811f85ad245950cb89d89c6c7425"
+        }
+      ]
+    }
+  ]
+}
