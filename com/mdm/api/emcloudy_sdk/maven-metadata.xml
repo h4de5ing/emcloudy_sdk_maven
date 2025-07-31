@@ -3,14 +3,15 @@
   <groupId>com.mdm.api</groupId>
   <artifactId>emcloudy_sdk</artifactId>
   <versioning>
-    <latest>1.0-20250730174952</latest>
-    <release>1.0-20250730174952</release>
+    <latest>1.0-20250731093342</latest>
+    <release>1.0-20250731093342</release>
     <versions>
       <version>1.0-20250721115001</version>
       <version>1.0-20250724093609</version>
       <version>1.0-20250730174932</version>
       <version>1.0-20250730174952</version>
+      <version>1.0-20250731093342</version>
     </versions>
-    <lastUpdated>20250730094953</lastUpdated>
+    <lastUpdated>20250731013342</lastUpdated>
   </versioning>
 </metadata>
